@@ -1,4 +1,3 @@
-Austin was here
 IC: Invisible Cities
 ==============================================
 

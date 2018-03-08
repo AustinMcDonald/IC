@@ -1,7 +1,8 @@
+Austin was here
 IC: Invisible Cities
 ==============================================
 
-IC stands for Invisible Cities and also for Italo Calvino, the author of the master piece. 
+IC stands for Invisible Cities and also for Italo Calvino, the author of the master piece.
 
 Quickstart guide
 ----------------
@@ -17,7 +18,7 @@ Where the 3.6 can be replaced with any sensible Python version you
 like. (On 2017-06-27 we dropped support for Python 3.5, so Python 3.6
 will be the only supported version until 3.7 is released and the third
 party modules we use are uploaded to conda and pip.)
-   
+
 If you have already done the above procedure once, then you should
 already have an `IC3.6` conda environment available, as long as
 ${HOME}/miniconda3/bin (or an earlier conda installation) is in your
@@ -62,10 +63,9 @@ recent version:
 .. code-block::
 
    bash manage.sh download_test_db
-   
+
 
 :Travis CI: |travis|
 
 .. |travis| image:: https://img.shields.io/travis/nextic/IC.png
         :target: https://travis-ci.org/nextic/IC
-
